@@ -1,0 +1,55 @@
+/* Configurações Globais */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2.0;
+    margin: 0;.
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #0b9f89;
+    color: rgb(201, 5, 184);
+    padding: 2rem text-align: center;
+    text-align: center;
+}
+
+/* Container Principal */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Tipografia */
+h2 {
+    color: #de3ac0;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+p {
+ text-align: center;
+ color: #090809;
+ font-family
+ line-height: 2.0;
+}
+
+
+ul {
+    padding-left:20px;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #d454c1;
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
